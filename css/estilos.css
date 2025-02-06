@@ -19,9 +19,10 @@ body {
 /* ----- ----- HEADER ----- ----- */
 header {
   background: url("../img/bg.jpg"), #080C0C;
-  background-size: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  object-fit: cover;
   max-height: 600px; }
   header .menu {
     margin: 40px 0;
