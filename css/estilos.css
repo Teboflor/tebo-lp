@@ -19,6 +19,7 @@ body {
 /* ----- ----- HEADER ----- ----- */
 header {
   background: url("../img/bg.jpg"), #080C0C;
+  width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
