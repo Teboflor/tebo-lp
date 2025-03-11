@@ -24,6 +24,7 @@ header {
   background-repeat: no-repeat;
   background-position: center;
   object-fit: cover;
+  max-width: 1000px;
   max-height: 600px; }
   header .menu {
     margin: 40px 0;
