@@ -171,6 +171,9 @@ footer .redes-sociales .titulo {
   header .menu {
     margin: 20px 0;
     text-align: center; }
+   header .menu a {
+      margin: 0 10px;
+      display: raw; }
 }
 
 @media screen and (max-width: 500px) {
