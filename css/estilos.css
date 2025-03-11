@@ -163,16 +163,15 @@ footer .redes-sociales .titulo {
 /* ----- ----- MEDIA QUERIES ----- ----- */
 @media screen and (max-width: 800px) {
   header {
-    height: 600px;
+    height: 500px;
     background-size: cover;
     background-position: center;
     object-fit: cover;
   }
   header .menu {
+    margin: 20px 0;
     text-align: center; }
-
-  .main .trabajos .contenedor-trabajos .trabajo {
-    width: 46%; } }
+}
 
 @media screen and (max-width: 500px) {
   header {
